@@ -1,0 +1,3 @@
+# 第 6 课：py-tiny-claw 依赖
+openai>=1.60.0
+python-dotenv>=1.0.0
